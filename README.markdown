@@ -33,7 +33,7 @@ Travaux pratiques
 - Remise: Semaine 5
 - Pondération: 20%
 
-Dans le contexte du développenent d'applications web (HTML5, CSS3, JavaScript, CoffeeScript, Node.js) vous devez évaluer l'environnement de développement qui assurera la plus grande productivité aux développeurs.
+Dans le contexte du développenent d'applications web (HTML5, CSS3, JavaScript, CoffeeScript, Node.js) vous devez évaluer les environnements de développement suivants et déterminer celui qui assurera la plus grande productivité aux développeurs.
 
 Premier candidat:
 
