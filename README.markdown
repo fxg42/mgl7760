@@ -23,7 +23,7 @@ Semaine de relâche
 Lectures additionnelles
 -----------------------
 
-À venir...
+- Semaine 3: [Big ball of mud](http://www.laputan.org/mud/)
 
 Travaux pratiques
 -----------------
