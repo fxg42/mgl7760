@@ -36,10 +36,12 @@ Travaux pratiques
 Dans le contexte du développenent d'applications web (HTML5, CSS3, JavaScript, CoffeeScript, Node.js) vous devez évaluer l'environnement de développement qui assurera la plus grande productivité aux développeurs.
 
 Premier candidat:
+
 - Eclipse (ou Netbeans)
 - Subversion
 
 Second candidat:
+
 - Vim ou Emacs
 - Gradle, Ant ou Maven
 - Git, Hg ou Fossil
