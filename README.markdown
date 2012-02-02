@@ -24,6 +24,8 @@ Lectures additionnelles
 -----------------------
 
 - Semaine 3: [Big ball of mud](http://www.laputan.org/mud/)
+- Semaine 5: [The Mythical Man-Month](http://www.csee.umbc.edu/~mgrass2/cmsc345/paper%20-%20MythicalManMonth.pdf)
+- Semaine 5: [No Silver Bullet](http://people.eecs.ku.edu/~saiedian/Teaching/Sp08/816/Papers/Background-Papers/no-silver-bullet.pdf)
 
 Travaux pratiques
 -----------------
