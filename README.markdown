@@ -51,13 +51,22 @@ Second candidat:
 - Git, Hg ou Fossil
 
 
-
 ### TP2
 
 - Remise: Semaine 8
 - Pondération: 20%
 
-Énoncé à venir
+Le TP2 est, en quelque sorte, la suite du premier travail. Vous devez maintenant recommander à votre client comment
+utiliser un ensemble d'outils afin que ceux-ci améliorent la qualité du code produit par son équipe. Les categories
+d'outils sont:
+
+- Un serveur d'intégration continue (e.g. Jenkins, CruiseControl)
+- Une librairie de tests unitaires (e.g. Jasmine, Mocha)
+- Un système de documentation collaborative (e.g. un wiki)
+- Un système de billeterie (e.g. Jira, Bugzilla)
+
+Vous devez choisir un outil pour chacune des 4 categories et indiquer à votre client comment il doit s'en servir pour
+obtenir le maximum la qualité du code produit.
 
 ### TP3
 
