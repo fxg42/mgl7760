@@ -26,6 +26,8 @@ Lectures additionnelles
 - Semaine 3: [Big ball of mud](http://www.laputan.org/mud/)
 - Semaine 5: [The Mythical Man-Month](http://www.csee.umbc.edu/~mgrass2/cmsc345/paper%20-%20MythicalManMonth.pdf)
 - Semaine 5: [No Silver Bullet](http://people.eecs.ku.edu/~saiedian/Teaching/Sp08/816/Papers/Background-Papers/no-silver-bullet.pdf)
+- Semaine 6: [The Psychology of Computer Programming. Chapitre 2](http://labunix.uqam.ca/~guillemette/tpocp_ch_2.pdf)
+- Semaine 6: [The Psychology of Computer Programming. Chapitre 4](http://labunix.uqam.ca/~guillemette/tpocp_ch_4.pdf)
 
 Travaux pratiques
 -----------------
