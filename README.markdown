@@ -66,7 +66,7 @@ d'outils sont:
 - Un système de billeterie (e.g. Jira, Bugzilla)
 
 Vous devez choisir un outil pour chacune des 4 categories et indiquer à votre client comment il doit s'en servir pour
-obtenir le maximum la qualité du code produit.
+obtenir le maximum de qualité dans le code produit.
 
 ### TP3
 
