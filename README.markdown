@@ -1,6 +1,18 @@
 MGL7760
 =======
 
+Grève étudiante
+---------------
+
+Le cours de la semaine 7 a été annulé en raison de la grève étudiante. Tel que discuté préalablement,
+les nouvelles dates de remise des TP 2 et 3 seront renégociées en classe lorsque les conditions
+d'enseignement normales seront rétablies.
+
+Je vous invite à vous informer des développements de la grève et des dates de vote de reconduite
+via le site de votre association étudiante : (http://www.aessuqam.org/)[http://www.aessuqam.org/]
+
+* * *
+
 Lectures dans Pragmatic Programmer
 ----------------------------------
 
@@ -37,7 +49,9 @@ Travaux pratiques
 - Remise: Semaine 5
 - Pondération: 20%
 
-Dans le contexte du développenent d'applications web (HTML5, CSS3, JavaScript, CoffeeScript, Node.js) vous devez évaluer les environnements de développement suivants et déterminer celui qui assurera la plus grande productivité aux développeurs.
+Dans le contexte du développenent d'applications web (HTML5, CSS3, JavaScript, CoffeeScript, Node.js)
+vous devez évaluer les environnements de développement suivants et déterminer celui qui assurera la plus
+grande productivité aux développeurs.
 
 Premier candidat:
 
@@ -53,7 +67,7 @@ Second candidat:
 
 ### TP2
 
-- Remise: Semaine 8
+- Remise: ~~Semaine 8~~
 - Pondération: 20%
 
 Le TP2 est, en quelque sorte, la suite du premier travail. Vous devez maintenant recommander à votre client comment
@@ -70,7 +84,7 @@ obtenir le maximum de qualité dans le code produit.
 
 ### TP3
 
-- Remise: Semaine 12
+- Remise: ~~Semaine 12~~
 - Pondération: 20%
 
 Énoncé à venir
