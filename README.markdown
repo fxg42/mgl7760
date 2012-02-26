@@ -9,7 +9,7 @@ les nouvelles dates de remise des TP 2 et 3 seront renégociées en classe lorsq
 d'enseignement normales seront rétablies.
 
 Je vous invite à vous informer des développements de la grève et des dates de vote de reconduite
-via le site de votre association étudiante : (http://www.aessuqam.org/)[http://www.aessuqam.org/]
+via le site de votre association étudiante : [http://www.aessuqam.org/](http://www.aessuqam.org/)
 
 * * *
 
